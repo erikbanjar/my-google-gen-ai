@@ -9,8 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "my-google-gen-ai",
   "dependencies": {
     "@google/genai": "^1.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikbanjar/my-google-gen-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erikbanjar/my-google-gen-ai/issues"
+  },
+  "homepage": "https://github.com/erikbanjar/my-google-gen-ai#readme"
 }

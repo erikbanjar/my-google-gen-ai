@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 
 // ditaruh di .env
-const ai = new GoogleGenAI({ apiKey: "AIzaSyB64nhc_odh1iF_iJzZOSwNMkRnggUsws0" });
+const ai = new GoogleGenAI({ apiKey: "tesapikeyyahjangandicopylho" });
 
 async function main() {
     const model = await ai.models.get({ model: "gemini-2.0-flash" });
