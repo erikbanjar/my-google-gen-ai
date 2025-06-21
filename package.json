@@ -1,20 +1,16 @@
 {
-  "name": "my-google-gen-ai",
+  "name": "gemini-ai-sandbox",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/erikbanjar/my-google-gen-ai.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/erikbanjar/my-google-gen-ai/issues"
-  },
-  "homepage": "https://github.com/erikbanjar/my-google-gen-ai#readme"
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.6.0"
+  }
 }
